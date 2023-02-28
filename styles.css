@@ -1,0 +1,37 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+img {
+    width: 190px;
+    height: 180px;
+    margin: 10px 0 0 0;
+    border-radius: 4%;
+}
+.border-around-qr-code {
+    position: relative;
+    background-color: antiquewhite;
+    width: 210px;
+    height: 330px;
+    margin: 100px auto;
+    border-radius: 4%;
+    border-color: #40514E;
+}
+p {
+    width: 80%;
+    margin: auto;
+    font-family: 'Nunito', sans-serif;
+    font-weight: lighter;
+    font-size: smaller;
+    color: #40514E;
+}
+h3 {
+    font-size: small;
+    font-family: 'Signika', sans-serif;
+    font-weight: bolder;
+
+}
+.attribution {
+    font-family: 'Montserrat', sans-serif;
+}
+
